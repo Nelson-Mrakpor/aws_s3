@@ -1,4 +1,3 @@
-#
 # AWS Simple Storage Service (S3)
 
 This guide provides a clear and practical introduction to Amazon S3,
